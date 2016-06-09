@@ -1,0 +1,448 @@
+RAUMID,LORNAME,EINWOHNER,AUSLAENDER,ANTEIL
+1011101,Stuelerstr.,3140,1082,34
+1011102,Grosser Tiergarten,184,28,15
+1011103,Luetzowstr.,4712,1363,29
+1011104,Koernerstr.,3747,1387,37
+1011105,Noerdl. Landwehrkanal,875,311,36
+1011201,Wilhelmstr.,2120,571,27
+1011202,Unter den Linden Nord,456,88,19
+1011203,Unter den Linden Sued,934,371,40
+1011204,Leipziger Str.,5693,1251,22
+1011301,Chariteeviertel,4565,906,20
+1011302,Oranienburger Str.,11793,2113,18
+1011303,Alexanderplatzviertel,8032,1480,18
+1011304,Karl-Marx-Allee,8237,1173,14
+1011305,Heine-Viertel West,6079,879,14
+1011306,Heine-Viertel Ost,7348,1223,17
+1011401,Invalidenstr.,12995,2280,18
+1011402,Arkonaplatz,11018,1802,16
+1022101,Huttenkiez,2873,861,30
+1022102,Beusselkiez,5480,2095,38
+1022103,Westhafen,163,37,23
+1022104,Emdener Str.,16420,4499,27
+1022105,Zwinglistr.,4423,1419,32
+1022106,Elberfelder Str.,10696,1709,16
+1022201,Stephankiez,9660,2714,28
+1022202,Heidestr.,1454,501,34
+1022203,Lbecker Str.,6294,2064,33
+1022204,Thomasiusstr.,5530,1036,19
+1022205,Zillesiedlung,2993,781,26
+1022206,Lneburger Str.,2940,559,19
+1022207,Hansaviertel,5777,1654,29
+1033101,Soldiner Str.,22474,7984,36
+1033102,Gesundbrunnen,10513,3874,37
+1033201,Brunnenstr.,12349,3891,32
+1033202,Humboldthain Sued,9273,2501,27
+1033203,Humboldthain NW,12585,4615,37
+1044101,Rehberge,17988,4335,24
+1044102,Schillerpark,14653,2465,17
+1044103,Westl. Muellerstr.,7332,2347,32
+1044201,Reinickendorfer Str.,20258,8595,42
+1044202,Sparrplatz,14840,5921,40
+1044203,Leopoldplatz,14408,5575,39
+2010101,Askanischer Platz,6320,2460,39
+2010102,Mehringplatz,12786,4099,32
+2010103,Moritzplatz,14652,4863,33
+2010104,Wassertorplatz,4995,1793,36
+2020201,Gleisdreieck,292,93,32
+2020202,Rathaus Yorckstrasse,5628,1491,26
+2020203,Viktoriapark,9827,2161,22
+2020204,Urbanstrasse,11989,3036,25
+2020205,Chamissokiez,14723,3546,24
+2020206,Graefekiez,18099,5203,29
+2030301,Oranienplatz,9344,3991,43
+2030302,Lausitzer Platz,13160,4522,34
+2030401,Reichenberger Strasse,14914,4486,30
+2030402,Wrangelkiez,11369,3897,34
+2040501,Barnimkiez,5525,546,10
+2040502,Friedenstrasse,6472,594,9
+2040503,Richard-Sorge-Viertel,9355,937,10
+2040701,Andreasviertel,11782,2187,19
+2040702,Weberwiese,9968,1015,10
+2040703,Wriezener Bahnhof,526,118,22
+2050601,Hausburgviertel,8111,1042,13
+2050602,Samariterviertel,18022,2314,13
+2050801,Traveplatz,17312,2528,15
+2050802,Boxhagener Platz,18434,2548,14
+2050803,Stralauer Kiez,6153,807,13
+2050804,Stralauer Halbinsel,2499,143,6
+3010101,Bucher Forst,2848,103,4
+3010102,Buch,10515,352,3
+3010104,Lietzengraben,189,12,6
+3020203,Blankenfelde,1911,18,1
+3020209,Niederschoenhausen,12605,639,5
+3020210,Herthaplatz,9543,282,3
+3020307,Buchholz,16396,445,3
+3030405,Karow-Nord,10347,260,3
+3030406,Alt-Karow,8175,136,2
+3030711,Blankenburg,6499,73,1
+3030715,Heinersdorf,6569,147,2
+3030716,Maerchenland,1156,12,1
+3040508,Rosenthal,4349,173,4
+3040512,Wilhelmsruh,9175,341,4
+3040513,Schoenholz,3033,137,5
+3040614,Pankow-Zentrum,31136,1386,4
+3040818,Pankow-Sued,31452,1607,5
+3050919,Gustav-Adolf-Strasse,4875,106,2
+3050920,Weisser See,5802,211,4
+3050923,Weissenseer Spitze,7721,483,6
+3050924,Behaimstrasse,5194,361,7
+3050925,Komponistenviertel Weissensee,7805,409,5
+3051017,Rennbahnstrasse,3813,223,6
+3051021,Buschallee,6293,249,4
+3051022,Hansastrasse,4494,95,2
+3061126,Arnimplatz,13622,1608,12
+3061131,Falkplatz,9606,1549,16
+3061227,Humannplatz,13438,1502,11
+3061228,Erich-Weinert-Strasse,11777,808,7
+3061332,Helmholtzplatz,20699,3079,15
+3061429,Greifswalder Strasse,10138,324,3
+3061430,Volkspark Prenzlauer Berg,2855,173,6
+3061434,Anton-Saefkow-Park,4919,479,10
+3061435,Conrad-Blenkle-Strasse,3861,405,10
+3061441,Eldenaer Strasse,578,33,6
+3071536,Teutoburger Platz,9795,1834,19
+3071537,Kollwitzplatz,13882,2285,16
+3071633,Thaelmannpark,2531,171,7
+3071638,Winsstrasse,15559,2213,14
+3071639,Boetzowstrasse,11776,1510,13
+4010101,Jungfernheide,9697,1474,15
+4010102,Ploetzensee,708,97,14
+4010103,Paul-Hertz-Siedlung,7040,1131,16
+4020204,Olympiagelaende,134,21,16
+4020205,Siedlung Ruhleben,1267,139,11
+4020206,Angerburger Allee,2599,200,8
+4020207,Flatowallee,2459,272,11
+4020208,Kranzallee,2701,296,11
+4020209,Eichkamp,3134,792,25
+4020310,Park Ruhwald,671,222,33
+4020311,Reichsstrasse,13696,1676,12
+4020312,Branitzer Platz,4767,592,12
+4020313,Koenigin-Elisabeth-Strasse,6456,966,15
+4020314,Messegelände,12,12,100
+4030415,Schlossgarten,2518,864,34
+4030416,Klausenerplatz,9837,2636,27
+4030417,Schlossstrasse,10055,1883,19
+4030518,Tegeler Weg,8967,1911,21
+4030519,Kaiserin-Augusta-Allee,5019,1135,23
+4030620,Alt-Lietzow,8297,1767,21
+4030621,Spreestadt,2753,824,30
+4030622,Richard-Wagner-Strasse,9786,2376,24
+4030623,Ernst-Reuter-Platz,4198,1292,31
+4030724,Lietzensee,6284,1121,18
+4030725,Amtsgerichtsplatz,11288,2419,21
+4030726,Droysenstrasse,5174,1225,24
+4030827,Karl-August-Platz,10765,3249,30
+4030828,Savignyplatz,9161,2291,25
+4030929,Hindemithplatz,5924,1321,22
+4030930,George-Grosz-Platz,5324,1281,24
+4030931,Breitscheidplatz,3377,1007,30
+4031032,Halensee,13901,2574,19
+4041133,Gueterbahnhof Grunewald,55,0,0
+4041134,Bismarckallee,4665,924,20
+4041135,Hundekehle,2717,468,17
+4041136,Hagenplatz,2907,443,15
+4041137,Flinsberger Platz,7528,1035,14
+4041238,Kissinger Strasse,5156,589,11
+4041239,Stadion Wilmersdorf,113,37,33
+4041240,Messelpark,1512,166,11
+4041241,Breite Strasse,6289,541,9
+4041342,Schlangenbader Strasse,4026,599,15
+4041343,Binger Strasse,3452,431,12
+4041344,Ruedesheimer Platz,10565,1536,15
+4051445,Eisenzahnstrasse,5591,974,17
+4051446,Preussenpark,9815,1901,19
+4051447,Ludwigkirchplatz,4886,1038,21
+4051448,Schaperstrasse,8546,1873,22
+4051549,Rathaus Wilmersdorf,3911,741,19
+4051550,Leon-Jessel-Platz,5098,947,19
+4051551,Brabanter Platz,4095,743,18
+4051652,Nikolsburger Platz,9182,1636,18
+4051653,Prager Platz,6278,1152,18
+4051654,Wilhelmsaue,2841,467,16
+4051655,Babelsberger Strasse,6325,1197,19
+4051656,Hildegardstrasse,7164,939,13
+4061757,Forst Grunewald,74,6,8
+5010101,Hakenfelde Nord,9606,996,10
+5010102,Goltzstrasse,5605,370,7
+5010103,Amorbacher Weg,7466,376,5
+5010204,Griesingerstr.,3068,289,9
+5010205,An der Traenke,1926,172,9
+5010206,Guetersloher Weg,9478,713,8
+5010207,Darbystr.,10691,1336,13
+5010208,Germersheimer Platz,6821,698,10
+5010209,An der Kappe,5955,436,7
+5010310,Eckschanze,3414,338,10
+5010311,Eiswerder,4578,1042,23
+5010312,Kurstr.,5772,1417,25
+5010313,Ackerstr.,5948,912,15
+5010314,Carl-Schurz-Str.,11017,1527,14
+5010339,Freiheit,411,49,12
+5020415,Isenburger Weg,3987,174,4
+5020416,Am Heideberg,1786,18,1
+5020417,Staakener Str.,5643,327,6
+5020418,Spandauer Str.,3934,172,4
+5020419,Magistratsweg,6744,457,7
+5020420,Werkstr.,972,34,4
+5020521,Doeberitzer Weg,2444,141,6
+5020522,Pillnitzer Weg,6142,603,10
+5020523,Maulbeerallee,10810,1633,15
+5020524,Weinmeisterhornweg,6263,252,4
+5020625,Borkumer Str.,6847,722,11
+5020626,Adamstr.,15958,1837,12
+5020627,Tiefenwerder,3526,370,10
+5020628,Graetschelsteig,2003,166,8
+5020629,Boernicker Str.,4392,248,6
+5030730,Zitadellenweg,3043,399,13
+5030731,Gartenfelder Str.,10542,1304,12
+5030832,Rohrdamm,10592,1698,16
+5030833,Motardstr.,857,442,52
+5040934,Alt-Gatow,3596,149,4
+5040935,Gross-Glienicker Weg,396,18,5
+5040936,Jaegerallee,7979,249,3
+5040937,Kladower Damm,2089,83,4
+5040938,Kafkastr.,3644,95,3
+6010101,Fichtenberg,6558,529,8
+6010102,Schlossstr.,8139,1305,16
+6010103,Markelstr.,6078,918,15
+6010204,Munsterdamm,6593,749,11
+6010205,Suedende,9078,944,10
+6010206,Stadtpark,7361,872,12
+6010207,Mittelstr.,7603,1084,14
+6010208,Bergstr.,6243,751,12
+6010209,Feuerbachstr.,8525,1152,14
+6010210,Bismarckstr.,4545,569,13
+6020301,Alt-Lankwitz,4768,349,7
+6020302,Komponistenviertel Lankwitz,5248,472,9
+6020303,Lankwitz-Kirche,6959,676,10
+6020304,Kaiser-Wilhelm-Str.,6580,624,9
+6020305,Gemeindepark Lankwitz,10332,1399,14
+6020306,Lankwitz-Sued,6478,421,7
+6020407,Thermometersiedlung,4594,882,19
+6020408,Lichterfelde-Sued,6461,472,7
+6020409,Koenigsberger Str.,8113,777,10
+6020410,Oberhofer Platz,6792,526,8
+6020411,Schuette-Lanz-Str.,8511,630,7
+6030501,Berlepschstr.,5543,366,7
+6030502,Zehlendorf-Sued,5168,400,8
+6030503,Zehlendorf-Mitte,10992,1104,10
+6030504,Teltower Damm,10754,891,8
+6030605,Botanischer Garten,6679,765,11
+6030606,Hindenburgdamm,4851,635,13
+6030607,Goerzwerke,3079,762,25
+6030608,Schweizer Viertel,10172,839,8
+6030609,Augustaplatz,11381,1098,10
+6030610,Lichterfelde-West,7944,810,10
+6040701,Wannsee,9026,802,9
+6040702,Dueppel,5247,417,8
+6040703,Nikolassee,10923,1886,17
+6040804,Krumme Lanke,7625,651,9
+6040805,Fischerhuettenstr.,5166,432,8
+6040806,Fischtal,7140,432,6
+6040807,Zehlendorf-Eiche,5676,584,10
+6040808,Huettenweg,3670,548,15
+6040809,Thielallee,4898,866,18
+6040810,Dahlem,6569,998,15
+7010101,Wittenbergplatz/Viktoria-Luise,9466,2319,25
+7010102,Nollendorfplatz,15881,5395,34
+7010103,Barbarossaplatz,10084,2095,21
+7010104,Dennewitzplatz,13251,5002,38
+7020201,Bayerischer Platz,10348,1698,16
+7020202,Volkspark (Rudolf-Wilde-Park),9315,2008,22
+7020203,Kaiser-Wilhelm-Platz,17213,4529,26
+7020204,Schoeneberger Insel,11135,2392,21
+7030301,Friedenau,23408,2943,13
+7030302,Ceciliengaerten,9173,1229,13
+7030303,Grazer Platz,11707,2425,21
+7040401,Neu-Tempelhof,15740,2306,15
+7040402,Lindenhofsiedlung,2062,191,9
+7040403,Manteuffelstr.,21868,3215,15
+7040404,Marienhoehe,4937,518,10
+7040405,Rathaus Tempelhof,9681,1749,18
+7040406,Germaniagarten,2854,639,22
+7050501,Rathausstr.,15084,2044,14
+7050502,Fritz-Werner-Str.,7310,971,13
+7050503,Eisenacher Str.,8889,988,11
+7050504,Imbrosweg,5443,541,10
+7050505,Hundsteinweg,10223,825,8
+7050506,Birnhornweg,2203,142,6
+7060601,Marienfelder Allee Nordwest,9358,1208,13
+7060602,Kirchstr.,4482,310,7
+7060603,Marienfelde Nordost,2670,245,9
+7060604,Marienfelde Sued,13561,1293,10
+7070701,Kettinger Str./Schillerstr.,10324,632,6
+7070702,Alt-Lichtenrade/Toepchiner Weg,10198,521,5
+7070703,John-Locke-Str.,7831,559,7
+7070704,Nahariyastr.,7387,603,8
+7070705,Franziusweg/ Rohrbachstr.,7105,396,6
+7070706,Horstwalder Str./Paplitzer Str,3703,132,4
+7070707,Wittelsbacherstr.,2974,137,5
+8010115,Hasenheide,804,155,19
+8010116,Wissmannstrasse,3388,1196,35
+8010117,Schillerpromenade,14947,5353,36
+8010118,Silbersteinstrasse,10594,4045,38
+8010211,Flughafenstrasse,9236,4010,43
+8010212,Rollberg,6957,2498,36
+8010213,Koernerpark,11275,4441,39
+8010214,Glasower Strasse,7361,2702,37
+8010301,Reuterkiez,27088,8555,32
+8010302,Boucheestrasse,3578,615,17
+8010303,Donaustrasse,7854,3413,43
+8010404,Rixdorf,21180,7867,37
+8010405,Hertzbergplatz,8247,2479,30
+8010406,Treptower Strasse Nord,6056,1882,31
+8010407,Gewerbegebiet Ederstr.,735,212,29
+8010508,Weisse Siedlung,4859,1404,29
+8010509,Schulenburgpark,7596,2101,28
+8010510,Gewerbegebiet Koellnische Heide,262,126,48
+8020619,Buschkrugallee Nord,9058,1864,21
+8020620,Tempelhofer Weg,8562,1314,15
+8020621,Mohriner Allee Nord,2353,134,6
+8020622,Parchimer Allee,13864,1242,9
+8020623,Ortolanweg,1215,108,9
+8020624,Britzer Garten,997,92,9
+8020625,Handwerker-Siedlung,3100,301,10
+8020726,Buckow West,8144,620,8
+8020727,Buckow Mitte,11230,704,6
+8020728,Buckow Ost,7603,861,11
+8030829,Gropiusstadt Nord,12088,1889,16
+8030830,Gropiusstadt Sued,7119,818,11
+8030831,Gropiusstadt Ost,16774,2807,17
+8040932,Goldhaehnchenweg,2692,182,7
+8040933,Vogelviertel Sued,3859,348,9
+8040934,Vogelviertel Nord,2634,249,9
+8041035,Blumenviertel,7664,563,7
+8041036,Zittauer Strasse,7026,397,6
+8041037,Alt-Rudow,9730,635,7
+8041038,Wassmannsdorfer Chaussee,6422,340,5
+8041039,Frauenviertel,3347,297,9
+8041040,Waltersdorfer Chaussee Ost,8021,510,6
+9010101,Elsenstr.,10267,1142,11
+9010102,Am Treptower Park Nord,46,6,13
+9010201,Am Treptower Park Sued,4047,173,4
+9010202,Koepenicker Landstrasse,6574,146,2
+9010301,Baumschulenstrasse,13816,473,3
+9010302,Spaethsfelde,2924,168,6
+9010401,Johannisthal West,7682,75,1
+9010402,Johannisthal Ost,9949,277,3
+9020501,Oberschoeneweide West,4867,309,6
+9020502,Oberschoeneweide Ost,12373,611,5
+9020601,Schnellerstr,6529,588,9
+9020602,Oberspree,3477,37,1
+9020701,Adlershof West,244,57,23
+9020702,Adlershof Ost,14879,428,3
+9020801,Spindlersfeld,2728,41,2
+9020802,Koelln. Vorstadt,6735,256,4
+9030901,Dorf Altglienicke,11488,306,3
+9030902,Wohngebiet II,5795,211,4
+9030903,Koelner Viertel,7899,198,3
+9031001,Bohnsdorf,11724,208,2
+9031101,Gruenau,5493,132,2
+9031201,Karolinenhof,1761,21,1
+9031202,Schmoeckwitz/Rauchfangswerder,2334,72,3
+9041301,Kietzer Feld / Nachtheide,13844,122,1
+9041302,Wendenschloss,1795,18,1
+9041401,Allende I,4723,89,2
+9041402,Allende II,1603,15,1
+9041501,Altstadt-Kietz,6586,298,5
+9041601,Mueggelheim,6350,85,1
+9051701,Hirschgarten,3519,36,1
+9051702,Boelschestrasse,13780,257,2
+9051801,Rahnsdorf/Hessenwinkel,8917,160,2
+9051901,Dammvorstadt,8930,198,2
+9052001,Koepenick-Nord,12400,152,1
+10010101,Marzahn-West,5469,423,8
+10010102,Havemannstr.,17031,1055,6
+10010203,Gewerbegebiet Bitterfelder Str.,271,67,25
+10010204,Wuhletalstr.,9974,452,5
+10010205,Marzahn-Ost,7502,244,3
+10010206,Ringkolonnaden,15461,519,3
+10010207,Marzahner Promenade,10442,519,5
+10010308,Marzahner Chaussee,1658,115,7
+10010309,Springpfuhl,14276,835,6
+10010310,Alt-Marzahn,17031,633,4
+10010311,Landsberger Tor,3032,122,4
+10020412,Alte Hellersdorfer Strasse,5424,234,4
+10020413,Gut Hellersdorf,14361,273,2
+10020414,Helle Mitte,1747,157,9
+10020415,Hellersdorfer Promenade,4848,156,3
+10020416,Boehlener Str.,4072,170,4
+10020517,Adele-Sandrock-Str.,8959,125,1
+10020518,Schleipfuhl,4712,108,2
+10020519,Boulevard Kastanienallee,4367,123,3
+10020620,Kaulsdorf-Nord II,3032,93,3
+10020621,Gelbes Viertel,5543,137,2
+10020622,Kaulsdorf-Nord I,8402,289,3
+10020623,Rotes Viertel,6363,111,2
+10030724,Oberfeldstr.,8262,971,12
+10030725,Buckower Ring,5735,284,5
+10030726,Alt-Biesdorf,2593,58,2
+10030727,Biesdorf-Sued,8314,161,2
+10040828,Kaulsdorf-Nord,7732,86,1
+10040829,Alt-Kaulsdorf,3575,76,2
+10040830,Kaulsdorf-Sued,7456,96,1
+10040931,Mahlsdorf-Nord,8833,138,2
+10040932,Alt-Mahlsdorf,3850,49,1
+10040933,Mahlsdorf-Sued,14310,150,1
+11010101,Dorf Malchow,478,12,3
+11010102,Dorf Wartenberg,2422,27,1
+11010103,Dorf Falkenberg,1172,12,1
+11010204,Falkenberg Ost,8768,582,7
+11010205,Falkenberg West,6532,434,7
+11010206,Wartenberg Sued,5989,293,5
+11010207,Wartenberg Nord,6575,223,3
+11010308,Zingster Strasse Ost,10975,642,6
+11010309,Zingster Strasse West,9525,770,8
+11010310,Muehlengrund,5089,101,2
+11020411,Malchower Weg,7379,461,6
+11020412,Hauptstrasse,6026,299,5
+11020513,Orankesee,3328,60,2
+11020514,Grosse-Leege-Strasse,7674,559,7
+11020515,Landsberger Allee,13688,906,7
+11020516,Weisse Taube,3712,110,3
+11030617,Hohenschoenhausener Strasse,6011,741,12
+11030618,Fennpfuhl West,15048,1225,8
+11030619,Fennpfuhl Ost,9775,782,8
+11030720,Herzbergstrasse,2893,1292,45
+11030721,Ruedigerstrasse,19377,1377,7
+11030824,Frankfurter Allee Sued,9884,1419,14
+11040925,Victoriastadt,3113,263,8
+11040926,Weitlingstrasse,24625,1618,7
+11041022,Rosenfelder Ring,4752,361,8
+11041023,Gensinger Strasse,5615,532,9
+11041027,Tierpark,2666,161,6
+11041128,Sewanstrasse,24319,2216,9
+11051229,Rummelsburg,2528,131,5
+11051330,Karlhorst West,7279,442,6
+11051331,Karlshorst Nord,8803,316,4
+11051332,Karlshorst Sued,5034,194,4
+12103115,Breitkopfbecken,6914,1063,15
+12103116,Hausotterplatz,8427,1454,17
+12103117,Letteplatz,9039,1702,19
+12103218,Teichstrasse,12096,1735,14
+12103219,Schaefersee,7971,1100,14
+12103220,Humboldtstrasse,4445,366,8
+12214125,Waldidyll/Flughafensee,6075,428,7
+12214126,Tegel-Sued,7517,847,11
+12214421,Reinickes Hof,2254,226,10
+12214422,Klixstr.,7176,1487,21
+12214423,Mellerbogen,5425,622,11
+12214424,Scharnweberstr.,9246,1724,19
+12214527,Alt-Tegel,10092,861,9
+12214528,Tegeler Forst,211,15,7
+12224229,Konradshoehe/Tegelort,5957,234,4
+12224230,Heiligensee,17610,575,3
+12231101,Hermsdorf,16390,638,4
+12231102,Frohnau,16942,646,4
+12301203,Wittenau-Sued,12889,998,8
+12301204,Wittenau-Nord,5904,364,6
+12301205,Waidmannslust,4884,252,5
+12301206,Luebars,4908,179,4
+12302107,Schorfheidestr.,2861,212,7
+12302108,Maerkisches Zentrum,12774,1341,11
+12302109,Treuenbrietzener Str.,9991,1703,17
+12302110,Dannenwalder Weg,9263,1277,14
+12302211,Luebarser Strasse,3212,179,6
+12302212,Rollbergesiedlung,5008,472,9
+12304313,Borsigwalde,6239,381,6
+12304314,Ziekowstrasse/Freie Scholle,9707,394,4
